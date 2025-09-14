@@ -11,7 +11,7 @@
     <a href="https://www.google.com" target="_blank">Go to Google</a>
 </body>
 </html>
-👉 Do you want me to make this plain and minimal (only heading + paragraph) or add some styling with CSS to make it look nicer?
+
 
 
 
